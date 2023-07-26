@@ -9,10 +9,7 @@ class MainClass
 
 		Console.WriteLine(myName);
 
-		Console.WriteLine("Привет, мир");
-		Console.WriteLine("Мне 27 лет");
-		Console.WriteLine($"My name is Kate");
-
+        Console.WriteLine("\t\tПривет, мир\n\t\tМне 26 лет\n\t\tMy name is\nKate");
 		Console.ReadKey();
 	}
 }
